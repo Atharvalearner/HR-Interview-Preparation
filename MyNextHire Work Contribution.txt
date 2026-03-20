@@ -1,0 +1,9 @@
+I worked as a Java Backend Developer Intern at Smaclify Technology where I contributed to backend development of a web application built using Java, Spring Boot, Hibernate, and PostgreSQL.
+
+My role involved developing and maintaining RESTful APIs, implementing business logic, and handling request and response processing between the frontend and backend services. 
+
+I also worked on database operations such as writing SQL queries, schema updates, and query optimization using PostgreSQL.
+
+I also collaborated with frontend developers and QA teams during sprint cycles to debug backend issues and improve application stability.
+
+During my internship, I worked on 80+ APIs including migrations, recruiter workflow APIs, notification systems, and Slack messaging integration.

@@ -1,0 +1,5 @@
+My backend development experience helps me understand how applications interact with databases, APIs, and authentication systems.
+
+This knowledge is valuable in cybersecurity because many vulnerabilities occur at the application layer, such as SQL injection, insecure API endpoints, and improper access control.
+
+Understanding backend architecture allows me to better analyze system behavior and identify potential security risks.

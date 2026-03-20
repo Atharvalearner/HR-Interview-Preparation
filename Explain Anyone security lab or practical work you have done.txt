@@ -1,0 +1,7 @@
+In one of my labs, I worked on Linux system hardening. 
+
+I installed Ubuntu in a virtual machine and created multiple users with different roles such as admin, developer, and guest. 
+
+I implemented role-based access control using Linux permissions and groups, restricted sensitive directories, and configured sudo access only for administrative users. 
+
+This helped me understand practical user access management and system security.

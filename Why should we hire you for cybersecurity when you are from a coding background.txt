@@ -1,0 +1,5 @@
+My development background helps me understand how applications work internally, including APIs, authentication, and database interactions.
+
+Since many security vulnerabilities originate from application behavior, this knowledge helps me analyze and secure systems more effectively. 
+
+Along with that, I have been actively learning cybersecurity through practical labs and the C-DAC DITISS program, so I can contribute both from an application and infrastructure security perspective.

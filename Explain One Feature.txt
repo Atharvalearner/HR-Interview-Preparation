@@ -1,0 +1,7 @@
+Recruiter Task Management / Recruiter Panel :
+
+One feature I worked on was related to recruiter task management, where APIs were developed to track recruiter tasks during the hiring workflow.
+
+These APIs fetched lists of pending tasks such as candidate screening, offer making, and scheduling activities. (Screening, Scheduling, Offer Making, Offer On Hold, Joining)
+
+The backend processed requests, retrieved task data from PostgreSQL using Hibernate, and returned structured responses to the recruiter dashboard.

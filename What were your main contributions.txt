@@ -1,0 +1,8 @@
+Developing and modifying multiple backend REST APIs.
+Implementing business logic for recruiter workflow APIs.
+Performing database migrations and schema-related changes.
+Fixing SQL mapping issues after code migration.
+Implementing recruiter dashboard APIs and task-related endpoints.
+Working on notification APIs for recruiters and panels.
+Contributing to Slack messaging integration PoC.
+Performing API testing, debugging, and PR issue resolution.

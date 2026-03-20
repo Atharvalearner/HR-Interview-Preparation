@@ -1,0 +1,7 @@
+MyNextHire is an Applicant Tracking System (ATS) used by recruiters to manage the hiring process.
+
+The platform allows recruiters to manage job positions, track candidate applications, monitor recruitment stages, and collaborate with panels during interviews.
+
+The backend system is built using Spring Boot microservices exposing REST APIs, which interact with a PostgreSQL database. 
+
+These APIs support features like recruiter dashboards, application tracking, notifications, activity logs, and workflow automation.

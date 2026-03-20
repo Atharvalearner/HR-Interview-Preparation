@@ -1,0 +1,5 @@
+I have a strong foundation in programming and backend development, and during my engineering degree I also studied subjects related to networking and security. From the beginning, I was interested in areas like networking, system administration, and cybersecurity, and I explored these topics through self-learning and practical labs.
+
+However, there were limited opportunities in this domain during college placements, so I started with a Java backend development internship to gain industry experience. 
+
+While working in development, my interest in system security and infrastructure remained strong. That is why I decided to pursue the C-DAC DITISS program, which provides structured training in cybersecurity, Linux administration, and IT infrastructure, so that I can build my career in this domain.

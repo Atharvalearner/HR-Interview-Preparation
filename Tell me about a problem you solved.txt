@@ -1,0 +1,5 @@
+During code migration, several APIs started returning incorrect data because some SQL queries and ORM mappings were not aligned with the updated database schema.
+
+I analyzed the issue by checking the Hibernate mappings and database queries, identified the incorrect query mapping, and updated the logic to match the new schema.
+
+After fixing the mapping, I tested the APIs to ensure they returned the correct data and raised a PR for review.
